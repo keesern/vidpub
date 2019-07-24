@@ -20,5 +20,3 @@ permalink: pretty
 
 # Build settings
 markdown: kramdown
-kramdown:
-  input: GFM
